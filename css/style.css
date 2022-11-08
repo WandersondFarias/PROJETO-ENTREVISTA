@@ -1,0 +1,231 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap');
+
+nav{
+  background: #E69C9D;
+  color:black;
+}
+div ul li a {
+  color:black; 
+}
+
+div ul li a:hover{
+
+ background: #EA5B6A;
+
+}
+
+#sobre{
+  background:#FBECD5;
+  color:black;
+  padding: 40px;
+ 
+ 
+}
+#sobre h1 {
+  opacity: 0.4;
+  font-size: 30px;
+  color:#EA5B6A 
+}
+.p-final-sobre{
+  color:#EA5B6A ;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: italic;
+
+}
+
+#designer{
+  font-style: italic;
+  font-size:18px;
+  padding: 40px;
+ 
+
+  background:#f4c3c6 ;
+  color: black;
+  margin:0;
+}
+h1{
+  font-size: 30px;
+  font-weight: bold;
+  opacity: 0.4;
+  color:#EA5B6A ;
+
+}
+.img-meio{
+  padding-top: 5px;
+
+}
+.p-frase{
+  color:white;
+  font-size: 20px;
+
+}
+.p-img-meio {
+  padding-top:0px;
+
+
+}
+.pb-img-meio {
+  padding-top:30px;
+
+
+}
+
+#braids{
+  padding: 40px;
+  background:#eb6f63 ;
+
+}
+#braids p{
+  margin-top:50px;
+ 
+}
+
+ .span-p{
+  
+   color:#f4c3c6 ;
+   }
+#extensao{
+ 
+  padding: 40px;
+  background:#e28ab4  ;
+  color:#f4c3c6 ;
+}
+
+#extensao h1{
+
+
+  color:white ;
+}
+#servicos{
+  padding:40px;
+  background:#fce4ec;
+  
+}
+#servicos h2 {
+  font-size:19px;
+  color:#B724B9;
+  font-weight:bold;
+  
+  
+ 
+  
+}
+
+.atendimento-servico{
+  border-left: 1px solid #B724B9;
+  border-right: 1px solid #B724B9;
+
+ 
+
+}
+.atendimento-servico-s{
+  color:#B724B9;
+  border-left: 1px solid #B724B9;
+  border-right: 1px solid #B724B9;
+ 
+
+}
+
+.atendimento-servico p{
+  color:#B724B9;
+}
+.atendimento-servico p a {
+  font-weight: bold;
+  text-decoration:none;
+  color:white;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  background:#B724B9;
+  padding:6px;
+  
+
+}
+.atendimento-servico p a:hover{
+  background:white;
+  color:#B724B9;
+  opacity: 1;
+
+}
+.horarios{
+ background: #3d3837;
+ 
+}
+.horarios h2{
+color: white;
+  
+ }
+ .horarios p{
+  color: white;
+  opacity: 0.8;
+    
+   }
+ 
+
+
+
+footer{
+
+ 
+  background:black;
+}
+.icones{
+margin-top:-20px;
+
+
+
+
+}
+
+.atribuicao{
+
+  color:white;
+  font-size:10px;
+}
+.atribuicao a {
+
+
+  color:pink;
+
+}
+.desenvolvedor{
+  color:white;
+}
+
+.desenvolvedor a{
+  text-decoration: none;
+
+
+  cursor:pointer;
+
+  color:pink;
+ 
+}
+
+
+
+
+/*E69C9D    e28ab4      d96b78   d54255    eb6f63*/
+
+
+
+
+/* Rolagem da Vertical da Página */
+::-webkit-scrollbar-thumb:vertical {
+background: pink; 
+height:20px;
+border-radius: 20px;
+-moz-border-radius: 20px;
+-webkit-border-radius: 20px;
+}
+
+
+/* Parte fixa da rolagem (fundo que não se move) */
+::-webkit-scrollbar {
+height:10px;
+width:10px; 
+ background: #FFFFF0; 
+
+}
