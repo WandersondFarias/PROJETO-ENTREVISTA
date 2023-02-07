@@ -27,8 +27,8 @@ Conheça o site clicando em <a href="https://wandersondefariasprogramador.github
 
 <hr>
 
-Este projeto foi desenvolvido  por <a href="https://github.com/wandersondefariasprogramador"> @wandersonde 
-farias </a>
+
+
 
 
 <table>
