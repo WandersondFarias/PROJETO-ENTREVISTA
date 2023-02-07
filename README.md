@@ -23,7 +23,7 @@ O projeto tem como objetivo motivar as pessoas a conhecerem o espaço FariahBrai
 
 ## Site 💻
 
-Conheça o site clicando em <a href="https://wandersondefariasprogramador.github.io/PROJETO-ENTREVISTA/"> FariahBraids </a>
+Conheça o site clicando em <a href="https://wandersondefariasprogramador.github.io/PROJETO-ENTREVISTA/">
 
 <hr>
 
